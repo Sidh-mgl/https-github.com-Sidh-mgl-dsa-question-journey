@@ -16,5 +16,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0228-summary-ranges](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0228-summary-ranges) |
 | [0500-keyboard-row](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0500-keyboard-row) |
 <!---LeetCode Topics End-->
