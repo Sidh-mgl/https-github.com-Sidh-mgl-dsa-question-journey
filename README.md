@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0804-unique-morse-code-words) |
 ## String
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0804-unique-morse-code-words) |
 ## Array
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0228-summary-ranges](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0228-summary-ranges) |
 | [0500-keyboard-row](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0804-unique-morse-code-words) |
 ## Tree
 |  |
