@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/2235-add-two-integers) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
