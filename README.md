@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Counting
 |  |
 | ------- |
