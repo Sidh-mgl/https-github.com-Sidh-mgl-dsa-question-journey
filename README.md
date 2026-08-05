@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/3731-find-missing-elements) |
 ## String
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3467-transform-array-by-parity](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Counting
 |  |
 | ------- |
