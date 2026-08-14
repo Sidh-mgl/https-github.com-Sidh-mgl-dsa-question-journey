@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0804-unique-morse-code-words) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0713-subarray-product-less-than-k) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sidh-mgl/https-github.com-Sidh-mgl-dsa-question-journey/tree/master/0974-subarray-sums-divisible-by-k) |
