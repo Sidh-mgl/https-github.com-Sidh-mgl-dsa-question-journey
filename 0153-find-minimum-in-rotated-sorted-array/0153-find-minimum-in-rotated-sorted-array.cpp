@@ -12,6 +12,10 @@ public:
             if (nums[mid] < ans) {
                 ans = min(ans, nums[mid]);
             }
+            if(nums[low] <= nums[high]){
+                ans = min(ans , nums[low]);
+                break;
+            }
             if (nums[low] <= nums[mid]) {
                 ans = min(ans, nums[low]);
                 low = mid + 1;
